@@ -72,7 +72,6 @@ mahi-it/Project-7
 ├── Project-7.py  ├── Datetime_module.py  ├── Mathematical_module.py  ├── Random_module.py ├── uuid_module.py ├── File_Operation.py ├── __init__.py ├──README.md
 
 
-
 ### Author
 
 Mahi Patel
